@@ -9,7 +9,7 @@
 title: "وبلاگ"
 
 # Your name to show in the footer
-author:"mohammadhosein givkashi"
+author: "mohammadhosein givkashi"
 
 # --- List of links in the navigation bar --- #
 
@@ -45,7 +45,7 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin:"https://www.linkedin.com/in/givkashi/"
+  linkedin: "https://www.linkedin.com/in/givkashi/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -185,7 +185,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Tehran"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

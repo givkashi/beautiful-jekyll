@@ -3,7 +3,6 @@ layout: post
 title: Transfer learning
 subtitle: یادگیری انتقالی
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [یادگیری انتقالی, transfer learning]
 ---
@@ -16,7 +15,6 @@ VGG16
 رو بررسی می کنم 
 در ابتدا کتابخانه های مورد نیاز در فریمورک کراس را ایمپورت میکنیم 
 
-.. TEASER_END
 
 from tensorflow.keras.applications.vgg16 import VGG16
 from tensorflow.keras.applications.vgg16 import preprocess_input

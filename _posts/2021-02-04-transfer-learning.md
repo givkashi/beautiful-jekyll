@@ -2,8 +2,7 @@
 layout: post
 title: Transfer learning
 subtitle: یادگیری انتقالی
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/vgg16.jpg
 tags: [یادگیری انتقالی, transfer learning]
 ---
 
@@ -52,3 +51,7 @@ model.add(Dense(1, activation='sigmoid'))
 
 
 مدل را کامپایل کرده و تابع هزینه مشخص شده و فرایند آموزش روی دادهها انجام می شود 
+
+https://github.com/givkashi/transfer-learning-with-VGG16
+
+https://vrgl.ir/XiAWv
